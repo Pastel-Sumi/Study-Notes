@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "46456403651a6641",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd3a1c68e2f7a5db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a4f5b87a6f406f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "12- Mastering Databases With Postgres.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "12- Mastering Databases With Postgres"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "35d51c4f7cc621f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "92ada00027361024",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd8bbefc3b9201a8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "e2e0ff614140f345",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ad75ae3e180376e6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9a62201a7dfe8389",
+    "type": "split",
+    "children": [
+      {
+        "id": "d30f7b85bc33ce0e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0232a67743f97286",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "What is Backend, how do they work and why do we need them.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for What is Backend, how do they work and why do we need them"
+            }
+          },
+          {
+            "id": "676fb1a83116c5b5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Roadmap for backend from first principles.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Roadmap for backend from first principles"
+            }
+          },
+          {
+            "id": "87ce4f1c1486848c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6ff37daae643d079",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "fedc991e422dba90",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Roadmap for backend from first principles.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Roadmap for backend from first principles"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
+    }
+  },
+  "active": "0a4f5b87a6f406f9",
+  "lastOpenFiles": [
+    "11- Complete REST API Design.md",
+    "12- Mastering Databases With Postgres.md",
+    "0- Back-End From First Principles Notes.md",
+    "Sin título.md",
+    "5- Understanding HTTP for backend engineers, where it all starts.md",
+    "4- Benefits of learning backend engineering from first principles.md",
+    "3- What is Backend, how do they work and why do we need them.md",
+    "2- Walk the path of a true backend engineer.md",
+    "1- Roadmap for backend from first principles.md",
+    "10- What are controllers, services, repositories and request context.md",
+    "9- Validations and transformations for backend engineers.md",
+    "8- Authentication and authorization for backend engineers.md",
+    "7- Serialization and Deserialization for backend engineers.md",
+    "6- What is Routing in Backend. How Requests Find Their Way Home.md",
+    "Django Notes.md",
+    "Sin título.base"
+  ]
+}

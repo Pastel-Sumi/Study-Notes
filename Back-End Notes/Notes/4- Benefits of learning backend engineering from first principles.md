@@ -1,0 +1,7 @@
+Learning backend from first principles becomes invaluable, the ability to break down most complex systems into their most basic Universal components gives you a massive Edge.
+1) **Seeing the big picture:** Mentally separate the different parts of the system and work on them in an isolated way. Identify the core logic; the routing layers; the database connections and the over engineered pieces.
+2) **Faster onboarding:** When you understand the first principles behind backend engineering like how HTTP works, how databases interact with APIs or how requests flow through the middleware you can dive into any language or framework. The syntax is second.
+3) **10x faster in new projects:** Helps you move with incredible speed and precision; able to create MVPs with production quality code far faster. You will understand how to structure your routes; set up database connections and implement critical functionalities like caching or error handling or logging.
+4) **Syntax fatigue:** First principles reduce this syntax fatigue because once you understand the fundamental building blocks, switching between languages is no longer a daunting task.
+5) **Choosing the right tool for the right job:** You won't be limited by your framework or your language or your library.
+6) **More employable:** More versatile and more employable. 

@@ -1,0 +1,5 @@
+[[Module 1 - Data types and structures]]
+[[Module 2 - Data responsibility]]
+[[Module 3 - Database essentials]]
+[[Module 4 - Organize and protect data]]
+[[Module 5 - Engage in the data community]]
